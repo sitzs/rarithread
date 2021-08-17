@@ -1,0 +1,18 @@
+Some thoughts on @Raricapital and $RGT — the protocol which introduced the permission-less money market pools primitive to the DeFi space. 
+The Governance token price has been coiling, sitting at $11.7 with 9,500 unique holders, give or take a few hundred for contracts/individuals with multiple wallets.
+-This gives us a Market Cap of $102.3MM – FDV: $117MM 
+-Total value locked inside the protocol sits around $149MM +$10MM minimum waiting to be deployed.
+This is the calm before the storm for this future billion-dollar protocol. When Arbitrum and Optimism fully roll out, you will see what the radio silence from the self-proclaimed Layer 2 king @transmissions11, and the team has enabled as they get back to shipping at a rapid pace. 
+
+From the most recent roadmap we see a plethora of additions slated to add utility and further value to $RGT other than governance. 
+veRGT — It’s understood that @curvefinance’s tokenomics are the pinnacle and therefore they’re being adopted for Fuse pools. The ability to contribute your $RGT holdings to a 0-4 year lock up will be heavily utilized as users begin to compete for incentives. Although I don’t think anyone can compete if @tetranode decides to deploy his impressive war chest.
+Gauges — Like veCRV this allows for investors with veRGT to dictate where the money will flow within the Rari ecosystem as liquidity mining incentives begin to roll out.
+Margin — The powers that be may have taken our centralized 100x margin ability, but things are moving quickly on chain. Opening levered positions will be possible through just a few clicks on almost any assets tradeable in Fuse pools. 
+Plugins — 
+Nova — Another flagship product from the @Raricapital team which will allow users to operate on Layer 1 from Layer 2 Optimism. There has been discussion and hype around this idea for some time now as it’s also being handled in part by @transmissions11. 
+There is just so much galaxy brain innovation going on with this team that it’s hard to list it all. Other notable future endeavors include collaboration/integration with Defi heavy weights like @yearnfinance , @indexcoop , and large automated market makers to inject idle capital into Rari’s aggregator and Fuse while @raricapital’s slice of the DeFi TVL continues to grow.  Check out the most recent roadmap which I heavily paraphrased this thread from, written by @jai_Bhavani. https://medium.com/rari-capital/the-roadmap-for-various-rari-capital-task-forces-716039e841ee
+
+There are also talks of Polygon and Solana expansion to capture more value and users. I also fully expect @Raricapital to facilitate the NFT space one day when there are methods to properly value NFT’s in real time, on chain. This means everything mentioned above could one day be possible for your NFT’s, borrow against their value and continue the cycle. 
+
+
+
